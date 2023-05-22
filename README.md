@@ -8,7 +8,7 @@
 
 ******
 
-###Ensuite installer le package git sur votre distribution : 
+### Ensuite installer le package git sur votre distribution : 
 ```
 sudo apt-get install git-all
 
