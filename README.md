@@ -12,12 +12,6 @@ sudo apt-get install git-all
 
 ```
 
-******
-
-
-
-
-
 # Maintenant il vous faut configurer votre GIT grace à une clef SSH : 
 
 ******
