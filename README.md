@@ -87,8 +87,6 @@ Après avoir fait tous ça vous pouvez suivre le tuto de Guillaume en toutes tra
 # Maintenant nous allons voir pour l'authentification et surtout le tuto de Killian ! 
 Après avoir suivi tous le tuto il vous manquera quelques informations pour que ça marche complètement
 
-******
-
 ## Dans le config .json changer la partie "dev" en : 
 
 
