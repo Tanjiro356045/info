@@ -1,7 +1,5 @@
 #  Readme complémentaire Killian x Guillaume
 
-******
-
 ## Installer nodeJs dans un premier temps si vous ne l'avez pas : 
 - Linux ( DEBIAN x UBUNTU )  : [ici](https://nodejs.org/en/download/package-manager#debian-and-ubuntu-based-linux-distributions)
 - LINUX (CentOS, Fedora, Red Hat) : [ici](https://nodejs.org/en/download/package-manager#centos-fedora-and-red-hat-enterprise-linux)
