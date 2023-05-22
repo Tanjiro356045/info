@@ -25,7 +25,7 @@ ls -al ~/.ssh
 Cela affichera la liste des fichiers dans votre répertoire .ssh. Si vous voyez des fichiers nommés id_rsaet id_rsa.pub, 
 vous avez déjà une clé SSH. Vous pouvez passer à l'étape 3. Sinon, passer à l'étape 2.
 
-******
+
 
 
 ### Étape 2 : Générer une nouvelle paire de clés SSH Dans votre terminal, exécuter la commande suivante pour générer une nouvelle paire de clés SSH :
@@ -36,7 +36,7 @@ ssh-keygen -t rsa -b 4096 -C "votre@email.com"
 
 ```
 
-******
+
 
 
 ### Étape 3 : Ajouter votre clé SSH à l'agent SSH L'agent SSH est un programme qui gère vos clés SSH. 
@@ -47,7 +47,7 @@ ssh-add ~/.ssh/id_rsa
 
 ```
 
-******
+
 
 
 ### Étape 4 : Ajoutez la clé SSH à votre compte Git Copiez le contenu de votre clé publique en utilisant la commande suivante :
@@ -60,7 +60,7 @@ Cela affichera la clé publique. Copiez toute la clé.
 Ensuite, ouvrez votre compte Git (par exemple, sur GitHub, GitLab, ou Bitbucket) et ouvrez les paramètres du compte ou des clés SSH.
 Ajoutez une nouvelle clé SSH et collez la clé publique que vous avez copiée précédemment.
 
-******
+
 
 
 ### Étape 5 : Tester la connexion SSH Pour tester si votre clé SSH est configurée correctement, exécutez la commande suivante :
