@@ -1,4 +1,4 @@
-#  Ceci est un readme complémentaire à celui de Guillaume et de Killian.
+#  Readm me complémentaire Killian x Guillaume
 
 ******
 
